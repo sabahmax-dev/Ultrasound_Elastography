@@ -1,7 +1,7 @@
 # Ultrasound_Elastography
 It is the  code from the Hassan Rivaz's paper .Below is the description from his website : http://users.encs.concordia.ca/~hrivaz/
 
-Ultradound Elastography (C and Matlab MEX) Code and RF data
+Ultrasound Elastography (C and Matlab MEX) Code and RF data
 
 The code runs with more recent versions of Matlab in PC, Mac OS X and Linux platforms as well. Please let me know if 
 you have problems running it.
